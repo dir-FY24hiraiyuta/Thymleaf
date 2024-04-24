@@ -1,3 +1,4 @@
+//単体テスト・テストメソッドの記述
 package calc;
 
 import static org.junit.jupiter.api.Assertions.*;

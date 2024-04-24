@@ -1,3 +1,5 @@
+//結合テスト・テストメソッドの記述
+
 package calc;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -10,7 +12,7 @@ public class CalculatorServiceTest {
     private Calculator calculator;
     private CalculatorService service;
 
-    @BeforeEach
+    @BeforeEach //テスト前に行う処理の記述
     public void setUp() {
         // テスト前にCalculatorとCalculatorServiceをセットアップ
         calculator = new Calculator();

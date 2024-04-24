@@ -1,3 +1,5 @@
+//結合テスト・テストクラスの記述
+
 package calc;
 
 public class CalculatorService {

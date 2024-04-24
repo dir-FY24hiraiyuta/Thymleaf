@@ -1,3 +1,4 @@
+//単体テスト・テストクラスの記述
 package calc;
 
 public class Calculator {
